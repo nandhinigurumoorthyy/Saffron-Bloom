@@ -3,6 +3,9 @@
 ## Overview
 Saffron Bloom is a premium saffron product e-commerce website built with React and Tailwind CSS. It showcases saffron varieties, recipes, cultivation info, and more with a modern, interactive UI.
 
+## Live Demo:
+👉 [**Click here to view the deployed site**](https://saffronbloom.netlify.app/)
+
 ## Features
 - Interactive Story Map highlighting saffron origins
 - Custom blend builder to mix saffron varieties
